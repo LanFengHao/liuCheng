@@ -34,7 +34,7 @@ export defalut ReservationCard;
 ### 属性
 ##### 属性命名
 * React组件的属性使用小驼峰命名法
-* 使用 className 代替 class 属性
-* 使用 htmlFor 代替 for 属性
+* 使用 className 代替class属性
+* 使用 htmlFor 代替for属性
 * 传递给 HTML 的属性
-* 传递给 HTML 元素的自定义属性， 需要添加 data- 前缀， React 不会渲染非标准属性；
+* 传递给 HTML 元素的自定义属性,需要添加 data- 前缀,React 不会渲染非标准属性；
